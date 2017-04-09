@@ -1,2 +1,8 @@
 This is test to add file to repo
 
+Once file is deleted locally I have used a command "git reset --hard"
+
+after that I have used one more command :"git pull"
+
+
+
